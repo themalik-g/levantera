@@ -308,5 +308,5 @@
  */
 
 module.exports = {
-  description: 'Levanter Bot Architecture & Developer Guide',
-}
+  description: "Levanter Bot Architecture & Developer Guide",
+};
